@@ -15,4 +15,3 @@ This project combines my passion for music with my love for coding, while showca
 - **CSS3** – styling and responsive design
 - **JavaScript (ES6)** – functionality and DOM manipulation
 
-# NOTE!!: "Place your own .mp3 file in the /music folder before running"
